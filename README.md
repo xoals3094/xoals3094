@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/Redis-D32F2F?style=for-the-badge&logo=redis&logoColor=white">
     </td>
     <td align="center" width="50%">
-      <h3>🌿 Baekjoon Tier</h3>
+      <h3>🌿 Baekjoon</h3>
       <a href="https://solved.ac/xoals3094">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xoals3094">
       </a>

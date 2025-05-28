@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TaeMin%20Kim&fontSize=40&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!&fontSize=40&fontAlignY=35)
 
 <br>
 
